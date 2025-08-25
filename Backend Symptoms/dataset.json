@@ -1,0 +1,3721 @@
+[
+  {
+    "Disease": "Diabetes",
+    "Symptoms": [
+      {
+        "Symptom": "Frequent urination",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Excessive thirst",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Fatigue",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Metformin",
+      "Insulin"
+    ],
+    "Brand Names": [
+      "Glycomet",
+      "Humulin"
+    ],
+    "Dosages": [
+      "500mg",
+      "100IU/ml"
+    ],
+    "Prices (INR)": [
+      "50",
+      "300"
+    ]
+  },
+  {
+    "Disease": "Hypertension",
+    "Symptoms": [
+      {
+        "Symptom": "Headache",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Dizziness",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Blurred vision",
+        "Severity":6,
+        "Duration":  0
+      }
+    ],
+    "Medicines": [
+      "Amlodipine",
+      "Lisinopril"
+    ],
+    "Brand Names": [
+      "Amlovas",
+      "Zestril"
+    ],
+    "Dosages": [
+      "5mg",
+      "10mg"
+    ],
+    "Prices (INR)": [
+      "30",
+      "40"
+    ]
+  },
+  {
+    "Disease": "Asthma",
+    "Symptoms": [
+      {
+        "Symptom": "Shortness of breath",
+        "Severity": 10,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Wheezing",
+        "Severity": 10,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Chest tightness",
+        "Severity": 10,
+        "Duration":  0
+      }
+    ],
+    "Medicines": [
+      "Salbutamol",
+      "Montelukast"
+    ],
+    "Brand Names": [
+      "Asthalin",
+      "Montair"
+    ],
+    "Dosages": [
+      "2mg",
+      "10mg"
+    ],
+    "Prices (INR)": [
+      "20",
+      "100"
+    ]
+  },
+  {
+    "Disease": "Malaria",
+    "Symptoms": [
+      {
+        "Symptom": "Fever",
+        "Severity": 10,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Chills",
+        "Severity": 10,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Sweating",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Nausea",
+        "Severity":6,
+        "Duration": 1
+      }
+    ],
+    "Medicines": [
+      "Artemether-Lumefantrine",
+      "Chloroquine"
+    ],
+    "Brand Names": [
+      "Coartem",
+      "Resochin"
+    ],
+    "Dosages": [
+      "20mg/120mg",
+      "250mg"
+    ],
+    "Prices (INR)": [
+      "200",
+      "150"
+    ]
+  },
+  {
+    "Disease": "Tuberculosis",
+    "Symptoms": [
+      {
+        "Symptom": "Cough",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Weight loss",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Night sweats",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Fever",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Rifampin",
+      "Isoniazid"
+    ],
+    "Brand Names": [
+      "Rifadin",
+      "Isonex"
+    ],
+    "Dosages": [
+      "450mg",
+      "300mg"
+    ],
+    "Prices (INR)": [
+      "250",
+      "100"
+    ]
+  },
+  {
+    "Disease": "Dengue",
+    "Symptoms": [
+      {
+        "Symptom": "Fever",
+        "Severity": 10,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Headache",
+        "Severity": 10,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Joint pain",
+        "Severity":6,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Paracetamol",
+      "IV fluids"
+    ],
+    "Brand Names": [
+      "Crocin",
+      "Normal Saline"
+    ],
+    "Dosages": [
+      "500mg",
+      "500ml"
+    ],
+    "Prices (INR)": [
+      "15",
+      "50"
+    ]
+  },
+  {
+    "Disease": "Typhoid",
+    "Symptoms": [
+      {
+        "Symptom": "Prolonged fever",
+        "Severity": 10,
+        "Duration":  3
+      },
+      {
+        "Symptom": "Abdominal pain",
+        "Severity":6,
+        "Duration":  3
+      },
+      {
+        "Symptom": "Loss of appetite",
+        "Severity":6,
+        "Duration":  3
+      }
+    ],
+    "Medicines": [
+      "Ceftriaxone",
+      "Azithromycin"
+    ],
+    "Brand Names": [
+      "Cefaxone",
+      "Azee"
+    ],
+    "Dosages": [
+      "1g",
+      "500mg"
+    ],
+    "Prices (INR)": [
+      "200",
+      "100"
+    ]
+  },
+  {
+    "Disease": "COVID-19",
+    "Symptoms": [
+      {
+        "Symptom": "Fever",
+        "Severity":6,
+        "Duration": 3
+      },
+      {
+        "Symptom": "Cough",
+        "Severity":6,
+        "Duration": 3
+      },
+      {
+        "Symptom": "Loss of taste and smell",
+        "Severity":6,
+        "Duration": 3
+      }
+    ],
+    "Medicines": [
+      "Paracetamol",
+      "Remdesivir"
+    ],
+    "Brand Names": [
+      "Crocin",
+      "Covifor"
+    ],
+    "Dosages": [
+      "500mg",
+      "100mg"
+    ],
+    "Prices (INR)": [
+      "15",
+      "5000"
+    ]
+  },
+  {
+    "Disease": "Influenza",
+    "Symptoms": [
+      {
+        "Symptom": "Fever",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Chills",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Muscle aches",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Sore throat",
+        "Severity": 3,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Oseltamivir",
+      "Zanamivir"
+    ],
+    "Brand Names": [
+      "Tamiflu",
+      "Relenza"
+    ],
+    "Dosages": [
+      "75mg",
+      "5mg"
+    ],
+    "Prices (INR)": [
+      "300",
+      "400"
+    ]
+  },
+  {
+    "Disease": "Migraine",
+    "Symptoms": [
+      {
+        "Symptom": "Severe headache",
+        "Severity": 10,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Nausea",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Sensitivity to light",
+        "Severity":6,
+        "Duration": 1
+      }
+    ],
+    "Medicines": [
+      "Sumatriptan",
+      "Ibuprofen"
+    ],
+    "Brand Names": [
+      "Suminat",
+      "Brufen"
+    ],
+    "Dosages": [
+      "50mg",
+      "400mg"
+    ],
+    "Prices (INR)": [
+      "200",
+      "30"
+    ]
+  },
+  {
+    "Disease": "Arthritis",
+    "Symptoms": [
+      {
+        "Symptom": "Joint pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Stiffness",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Swelling",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Ibuprofen",
+      "Naproxen"
+    ],
+    "Brand Names": [
+      "Brufen",
+      "Naprosyn"
+    ],
+    "Dosages": [
+      "400mg",
+      "500mg"
+    ],
+    "Prices (INR)": [
+      "30",
+      "50"
+    ]
+  },
+  {
+    "Disease": "Pneumonia",
+    "Symptoms": [
+      {
+        "Symptom": "Cough",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Chest pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Difficulty breathing",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Amoxicillin",
+      "Azithromycin"
+    ],
+    "Brand Names": [
+      "Amoxil",
+      "Azee"
+    ],
+    "Dosages": [
+      "500mg",
+      "500mg"
+    ],
+    "Prices (INR)": [
+      "100",
+      "100"
+    ]
+  },
+  {
+    "Disease": "Common Cold",
+    "Symptoms": [
+      {
+        "Symptom": "Runny nose",
+        "Severity": 3,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Sore throat",
+        "Severity": 3,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Sneezing",
+        "Severity": 3,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Paracetamol",
+      "Antihistamines"
+    ],
+    "Brand Names": [
+      "Crocin",
+      "Cetirizine"
+    ],
+    "Dosages": [
+      "500mg",
+      "10mg"
+    ],
+    "Prices (INR)": [
+      "15",
+      "20"
+    ]
+  },
+  {
+    "Disease": "Anemia",
+    "Symptoms": [
+      {
+        "Symptom": "Fatigue",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Pale skin",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Dizziness",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Iron supplements",
+      "Vitamin B12"
+    ],
+    "Brand Names": [
+      "Feronia",
+      "Cobal"
+    ],
+    "Dosages": [
+      "100mg",
+      "1000mcg"
+    ],
+    "Prices (INR)": [
+      "50",
+      "100"
+    ]
+  },
+  {
+    "Disease": "Heart Disease",
+    "Symptoms": [
+      {
+        "Symptom": "Chest pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Shortness of breath",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Fatigue",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Aspirin",
+      "Atorvastatin"
+    ],
+    "Brand Names": [
+      "Ecosprin",
+      "Atorva"
+    ],
+    "Dosages": [
+      "75mg",
+      "10mg"
+    ],
+    "Prices (INR)": [
+      10,
+      "50"
+    ]
+  },
+  {
+    "Disease": "Kidney Disease",
+    "Symptoms": [
+      {
+        "Symptom": "Swelling",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Fatigue",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "High blood pressure",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "ACE inhibitors",
+      "Diuretics"
+    ],
+    "Brand Names": [
+      "Enalapril",
+      "Lasix"
+    ],
+    "Dosages": [
+      "5mg",
+      "40mg"
+    ],
+    "Prices (INR)": [
+      "30",
+      "20"
+    ]
+  },
+  {
+    "Disease": "Hepatitis B",
+    "Symptoms": [
+      {
+        "Symptom": "Jaundice",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Nausea",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Dark urine",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Tenofovir",
+      "Entecavir"
+    ],
+    "Brand Names": [
+      "Viread",
+      "Baraclude"
+    ],
+    "Dosages": [
+      "300mg",
+      "0.5mg"
+    ],
+    "Prices (INR)": [
+      "500",
+      "600"
+    ]
+  },
+  {
+    "Disease": "Gastritis",
+    "Symptoms": [
+      {
+        "Symptom": "Stomach pain",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Bloating",
+        "Severity": 3,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Nausea",
+        "Severity": 3,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Omeprazole",
+      "Ranitidine"
+    ],
+    "Brand Names": [
+      "Omez",
+      "Zinetac"
+    ],
+    "Dosages": [
+      "20mg",
+      "150mg"
+    ],
+    "Prices (INR)": [
+      "30",
+      "20"
+    ]
+  },
+  {
+    "Disease": "Peptic Ulcer",
+    "Symptoms": [
+      {
+        "Symptom": "Burning stomach pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Bloating",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Nausea",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Pantoprazole",
+      "Clarithromycin"
+    ],
+    "Brand Names": [
+      "Pantocid",
+      "Claribid"
+    ],
+    "Dosages": [
+      "40mg",
+      "500mg"
+    ],
+    "Prices (INR)": [
+      "50",
+      "100"
+    ]
+  },
+  {
+    "Disease": "Epilepsy",
+    "Symptoms": [
+      {
+        "Symptom": "Seizures",
+        "Severity": 10,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Confusion",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Temporary unconsciousness",
+        "Severity": 10,
+        "Duration":  0
+      }
+    ],
+    "Medicines": [
+      "Carbamazepine",
+      "Valproic Acid"
+    ],
+    "Brand Names": [
+      "Tegretol",
+      "Encorate"
+    ],
+    "Dosages": [
+      "200mg",
+      "500mg"
+    ],
+    "Prices (INR)": [
+      "150",
+      "200"
+    ]
+  },
+  {
+    "Disease": "Alzheimer's",
+    "Symptoms": [
+      {
+        "Symptom": "Memory loss",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Confusion",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Difficulty in thinking",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Donepezil",
+      "Memantine"
+    ],
+    "Brand Names": [
+      "Aricept",
+      "Mentadem"
+    ],
+    "Dosages": [
+      "5mg",
+      "10mg"
+    ],
+    "Prices (INR)": [
+      "300",
+      "400"
+    ]
+  },
+  {
+    "Disease": "Parkinson's",
+    "Symptoms": [
+      {
+        "Symptom": "Tremors",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "S3 movement",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Balance issues",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Levodopa",
+      "Carbidopa"
+    ],
+    "Brand Names": [
+      "Sinemet",
+      "Sinemet"
+    ],
+    "Dosages": [
+      "100mg",
+      "25mg"
+    ],
+    "Prices (INR)": [
+      "500",
+      "500"
+    ]
+  },
+  {
+    "Disease": "Obesity",
+    "Symptoms": [
+      {
+        "Symptom": "Excess body weight",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Fatigue",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "High cholesterol",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Orlistat",
+      "Metformin"
+    ],
+    "Brand Names": [
+      "Orlistat",
+      "Glycomet"
+    ],
+    "Dosages": [
+      "120mg",
+      "500mg"
+    ],
+    "Prices (INR)": [
+      "300",
+      "50"
+    ]
+  },
+  {
+    "Disease": "Hyperthyroidism",
+    "Symptoms": [
+      {
+        "Symptom": "Weight loss",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Rapid heartbeat",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Sweating",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Methimazole",
+      "Propylthiouracil"
+    ],
+    "Brand Names": [
+      "Thyrozol",
+      "Propylthiouracil"
+    ],
+    "Dosages": [
+      "5mg",
+      "50mg"
+    ],
+    "Prices (INR)": [
+      "50",
+      "100"
+    ]
+  },
+  {
+    "Disease": "Hypothyroidism",
+    "Symptoms": [
+      {
+        "Symptom": "Fatigue",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Weight gain",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Dry skin",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Levothyroxine"
+    ],
+    "Brand Names": [
+      "Thyronorm"
+    ],
+    "Dosages": [
+      "50mcg"
+    ],
+    "Prices (INR)": [
+      "50"
+    ]
+  },
+  {
+    "Disease": "Psoriasis",
+    "Symptoms": [
+      {
+        "Symptom": "Itchy, red, scaly skin patches",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Topical corticosteroids",
+      "Methotrexate"
+    ],
+    "Brand Names": [
+      "Betnovate",
+      "Methotrexate"
+    ],
+    "Dosages": [
+      "0.1%",
+      "2.5mg"
+    ],
+    "Prices (INR)": [
+      "100",
+      "200"
+    ]
+  },
+  {
+    "Disease": "Eczema",
+    "Symptoms": [
+      {
+        "Symptom": "Itchy, dry, cracked skin",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Moisturizers",
+      "Hydrocortisone"
+    ],
+    "Brand Names": [
+      "Vaseline",
+      "Cortisol"
+    ],
+    "Dosages": [
+      "100ml",
+      "1%"
+    ],
+    "Prices (INR)": [
+      "150",
+      "50"
+    ]
+  },
+  {
+    "Disease": "Depression",
+    "Symptoms": [
+      {
+        "Symptom": "Persistent sadness",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Lack of energy",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Sleep issues",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Sertraline",
+      "Fluoxetine"
+    ],
+    "Brand Names": [
+      "Zoloft",
+      "Prozac"
+    ],
+    "Dosages": [
+      "50mg",
+      "20mg"
+    ],
+    "Prices (INR)": [
+      "100",
+      "150"
+    ]
+  },
+  {
+    "Disease": "Anxiety",
+    "Symptoms": [
+      {
+        "Symptom": "Excessive worry",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Restlessness",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Rapid heartbeat",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Alprazolam",
+      "Diazepam"
+    ],
+    "Brand Names": [
+      "Alprax",
+      "Calmpose"
+    ],
+    "Dosages": [
+      "0.5mg",
+      "5mg"
+    ],
+    "Prices (INR)": [
+      "50",
+      "30"
+    ]
+  },
+  {
+    "Disease": "Schizophrenia",
+    "Symptoms": [
+      {
+        "Symptom": "Hallucinations",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Delusions",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Disorganized speech",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Risperidone",
+      "Olanzapine"
+    ],
+    "Brand Names": [
+      "Risperdal",
+      "Olanex"
+    ],
+    "Dosages": [
+      "2mg",
+      "5mg"
+    ],
+    "Prices (INR)": [
+      "100",
+      "150"
+    ]
+  },
+  {
+    "Disease": "HIV/AIDS",
+    "Symptoms": [
+      {
+        "Symptom": "Fatigue",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Weight loss",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Frequent infections",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Tenofovir",
+      "Efavirenz"
+    ],
+    "Brand Names": [
+      "Viread",
+      "Efavirenz"
+    ],
+    "Dosages": [
+      "300mg",
+      "600mg"
+    ],
+    "Prices (INR)": [
+      "500",
+      "500"
+    ]
+  },
+  {
+    "Disease": "Gonorrhea",
+    "Symptoms": [
+      {
+        "Symptom": "Painful urination",
+        "Severity": 10,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Discharge",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Swelling",
+        "Severity":6,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Ceftriaxone",
+      "Azithromycin"
+    ],
+    "Brand Names": [
+      "Cefaxone",
+      "Azee"
+    ],
+    "Dosages": [
+      "1g",
+      "500mg"
+    ],
+    "Prices (INR)": [
+      "200",
+      "100"
+    ]
+  },
+  {
+    "Disease": "Syphilis",
+    "Symptoms": [
+      {
+        "Symptom": "Sores",
+        "Severity": 10,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Rash",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Fever",
+        "Severity":6,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Penicillin G"
+    ],
+    "Brand Names": [
+      "Penicillin G"
+    ],
+    "Dosages": [
+      "1MU"
+    ],
+    "Prices (INR)": [
+      "100"
+    ]
+  },
+  {
+    "Disease": "Chlamydia",
+    "Symptoms": [
+      {
+        "Symptom": "Painful urination",
+        "Severity": 10,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Discharge",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "3er abdominal pain",
+        "Severity": 10,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Azithromycin",
+      "Doxycycline"
+    ],
+    "Brand Names": [
+      "Azee",
+      "Doxy-1"
+    ],
+    "Dosages": [
+      "500mg",
+      "100mg"
+    ],
+    "Prices (INR)": [
+      "100",
+      "50"
+    ]
+  },
+  {
+    "Disease": "Bronchitis",
+    "Symptoms": [
+      {
+        "Symptom": "Cough with mucus",
+        "Severity": 10,
+        "Duration":  3
+      },
+      {
+        "Symptom": "Fatigue",
+        "Severity":6,
+        "Duration":  3
+      },
+      {
+        "Symptom": "Chest discomfort",
+        "Severity":6,
+        "Duration":  3
+      }
+    ],
+    "Medicines": [
+      "Amoxicillin",
+      "Bronchodilators"
+    ],
+    "Brand Names": [
+      "Amoxil",
+      "Ventolin"
+    ],
+    "Dosages": [
+      "500mg",
+      "100mcg"
+    ],
+    "Prices (INR)": [
+      "100",
+      "200"
+    ]
+  },
+  {
+    "Disease": "Sinusitis",
+    "Symptoms": [
+      {
+        "Symptom": "Facial pain",
+        "Severity":6,
+        "Duration":  3
+      },
+      {
+        "Symptom": "Nasal congestion",
+        "Severity":6,
+        "Duration":  3
+      },
+      {
+        "Symptom": "Headache",
+        "Severity":6,
+        "Duration":  3
+      }
+    ],
+    "Medicines": [
+      "Nasal decongestants",
+      "Antibiotics"
+    ],
+    "Brand Names": [
+      "Otrivin",
+      "Augmentin"
+    ],
+    "Dosages": [
+      "0.1%",
+      "625mg"
+    ],
+    "Prices (INR)": [
+      "50",
+      "200"
+    ]
+  },
+  {
+    "Disease": "Otitis Media",
+    "Symptoms": [
+      {
+        "Symptom": "Ear pain",
+        "Severity": 10,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Hearing loss",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Fluid drainage",
+        "Severity":6,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Amoxicillin",
+      "Ibuprofen"
+    ],
+    "Brand Names": [
+      "Amoxil",
+      "Brufen"
+    ],
+    "Dosages": [
+      "500mg",
+      "400mg"
+    ],
+    "Prices (INR)": [
+      "100",
+      "30"
+    ]
+  },
+  {
+    "Disease": "Conjunctivitis",
+    "Symptoms": [
+      {
+        "Symptom": "Red eyes",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Itching",
+        "Severity": 3,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Discharge",
+        "Severity": 3,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Antibiotic eye drops",
+      "Antihistamines"
+    ],
+    "Brand Names": [
+      "Tobramycin",
+      "Cetirizine"
+    ],
+    "Dosages": [
+      "0.3%",
+      "10mg"
+    ],
+    "Prices (INR)": [
+      "100",
+      "20"
+    ]
+  },
+  {
+    "Disease": "Glaucoma",
+    "Symptoms": [
+      {
+        "Symptom": "Blurred vision",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Eye pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Nausea",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Timolol",
+      "Latanoprost"
+    ],
+    "Brand Names": [
+      "Timolol",
+      "Latanoprost"
+    ],
+    "Dosages": [
+      "0.5%",
+      "0.005%"
+    ],
+    "Prices (INR)": [
+      "100",
+      "200"
+    ]
+  },
+  {
+    "Disease": "Cataracts",
+    "Symptoms": [
+      {
+        "Symptom": "Cloudy vision",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Difficulty in night vision",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Surgery"
+    ],
+    "Brand Names": [
+      "Cataract Surgery"
+    ],
+    "Dosages": [
+      ""
+    ],
+    "Prices (INR)": [
+      "30000"
+    ]
+  },
+  {
+    "Disease": "Lyme Disease",
+    "Symptoms": [
+      {
+        "Symptom": "Fever",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Headache",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Fatigue",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Skin rash",
+        "Severity":6,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Doxycycline",
+      "Amoxicillin"
+    ],
+    "Brand Names": [
+      "Doxy-1",
+      "Amoxil"
+    ],
+    "Dosages": [
+      "100mg",
+      "500mg"
+    ],
+    "Prices (INR)": [
+      "50"
+    ]
+  },
+  {
+    "Disease": "Hepatitis C",
+    "Symptoms": [
+      {
+        "Symptom": "Fatigue",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Jaundice",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Abdominal pain",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Sofosbuvir",
+      "Ribavirin"
+    ],
+    "Brand Names": [
+      "Sovaldi",
+      "Ribavirin"
+    ],
+    "Dosages": [
+      "400mg",
+      "200mg"
+    ],
+    "Prices (INR)": [
+      "1000"
+    ]
+  },
+  {
+    "Disease": "Osteoporosis",
+    "Symptoms": [
+      {
+        "Symptom": "Bone pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Fractures",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Loss of height",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Alendronate",
+      "Calcium supplements"
+    ],
+    "Brand Names": [
+      "Fosamax",
+      "Caltrate"
+    ],
+    "Dosages": [
+      "70mg",
+      "500mg"
+    ],
+    "Prices (INR)": [
+      "200"
+    ]
+  },
+  {
+    "Disease": "Fibromyalgia",
+    "Symptoms": [
+      {
+        "Symptom": "Widespread pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Fatigue",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Sleep disturbances",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Pregabalin",
+      "Duloxetine"
+    ],
+    "Brand Names": [
+      "Lyrica",
+      "Cymbalta"
+    ],
+    "Dosages": [
+      "75mg",
+      "30mg"
+    ],
+    "Prices (INR)": [
+      "300"
+    ]
+  },
+  {
+    "Disease": "Multiple Sclerosis",
+    "Symptoms": [
+      {
+        "Symptom": "Numbness",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Weakness",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Vision problems",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Interferon beta",
+      "Glatiramer acetate"
+    ],
+    "Brand Names": [
+      "Avonex",
+      "Copaxone"
+    ],
+    "Dosages": [
+      "30mcg",
+      "20mg"
+    ],
+    "Prices (INR)": [
+      "5000"
+    ]
+  },
+  {
+    "Disease": "Gout",
+    "Symptoms": [
+      {
+        "Symptom": "Intense joint pain",
+        "Severity": 10,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Swelling",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Redness",
+        "Severity":6,
+        "Duration": 1
+      }
+    ],
+    "Medicines": [
+      "Allopurinol",
+      "Colchicine"
+    ],
+    "Brand Names": [
+      "Zyloprim",
+      "Colcrys"
+    ],
+    "Dosages": [
+      "100mg",
+      "0.6mg"
+    ],
+    "Prices (INR)": [
+      "100"
+    ]
+  },
+  {
+    "Disease": "Chronic Fatigue Syndrome",
+    "Symptoms": [
+      {
+        "Symptom": "Extreme fatigue",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Muscle pain",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Memory issues",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Antidepressants",
+      "Sleep aids"
+    ],
+    "Brand Names": [
+      "Amitriptyline",
+      "Zolpidem"
+    ],
+    "Dosages": [
+      "25mg",
+      "5mg"
+    ],
+    "Prices (INR)": [
+      "50"
+    ]
+  },
+  {
+    "Disease": "Irritable Bowel Syndrome (IBS)",
+    "Symptoms": [
+      {
+        "Symptom": "Abdominal pain",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Bloating",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Diarrhea or constipation",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Antispasmodics",
+      "Laxatives"
+    ],
+    "Brand Names": [
+      "Dicyclomine",
+      "Miralax"
+    ],
+    "Dosages": [
+      "10mg",
+      "17g"
+    ],
+    "Prices (INR)": [
+      "30"
+    ]
+  },
+  {
+    "Disease": "Lupus",
+    "Symptoms": [
+      {
+        "Symptom": "Joint pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Rash",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Fatigue",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Hydroxychloroquine",
+      "Prednisone"
+    ],
+    "Brand Names": [
+      "Plaquenil",
+      "Deltasone"
+    ],
+    "Dosages": [
+      "200mg",
+      "5mg"
+    ],
+    "Prices (INR)": [
+      "100"
+    ]
+  },
+  {
+    "Disease": "Rheumatoid Arthritis",
+    "Symptoms": [
+      {
+        "Symptom": "Joint pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Swelling",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Stiffness",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Methotrexate",
+      "Hydroxychloroquine"
+    ],
+    "Brand Names": [
+      "Trexall",
+      "Plaquenil"
+    ],
+    "Dosages": [
+      "2.5mg",
+      "200mg"
+    ],
+    "Prices (INR)": [
+      "100"
+    ]
+  },
+  {
+    "Disease": "Shingles",
+    "Symptoms": [
+      {
+        "Symptom": "Painful rash",
+        "Severity": 10,
+        "Duration":  3
+      },
+      {
+        "Symptom": "Blisters",
+        "Severity":6,
+        "Duration":  3
+      },
+      {
+        "Symptom": "Itching",
+        "Severity":6,
+        "Duration":  3
+      }
+    ],
+    "Medicines": [
+      "Acyclovir",
+      "Pain relievers"
+    ],
+    "Brand Names": [
+      "Zovirax",
+      "Ibuprofen"
+    ],
+    "Dosages": [
+      "800mg",
+      "400mg"
+    ],
+    "Prices (INR)": [
+      "200"
+    ]
+  },
+  {
+    "Disease": "Tetanus",
+    "Symptoms": [
+      {
+        "Symptom": "Muscle stiffness",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Spasms",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Lockjaw",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Tetanus toxoid",
+      "Antibiotics"
+    ],
+    "Brand Names": [
+      "TT Vaccine",
+      "Penicillin"
+    ],
+    "Dosages": [
+      "0.5ml",
+      "1MU"
+    ],
+    "Prices (INR)": [
+      "50"
+    ]
+  },
+  {
+    "Disease": "Whooping Cough",
+    "Symptoms": [
+      {
+        "Symptom": "Severe cough",
+        "Severity": 10,
+        "Duration":  3
+      },
+      {
+        "Symptom": "Runny nose",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Fever",
+        "Severity":6,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Antibiotics",
+      "Cough suppressants"
+    ],
+    "Brand Names": [
+      "Azithromycin",
+      "Dextromethorphan"
+    ],
+    "Dosages": [
+      "500mg",
+      "15mg"
+    ],
+    "Prices (INR)": [
+      "100"
+    ]
+  },
+  {
+    "Disease": "Yel3 Fever",
+    "Symptoms": [
+      {
+        "Symptom": "Fever",
+        "Severity": 10,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Chills",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Headache",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Jaundice",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Supportive care",
+      "Vaccination"
+    ],
+    "Brand Names": [
+      "YF-Vax"
+    ],
+    "Dosages": [
+      "0.5ml"
+    ],
+    "Prices (INR)": [
+      "500"
+    ]
+  },
+  {
+    "Disease": "Leukemia",
+    "Symptoms": [
+      {
+        "Symptom": "Fatigue",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Weight loss",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Frequent infections",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Chemotherapy",
+      "Targeted therapy"
+    ],
+    "Brand Names": [
+      "Imatinib",
+      "Rituximab"
+    ],
+    "Dosages": [
+      "400mg",
+      "500mg"
+    ],
+    "Prices (INR)": [
+      "5000"
+    ]
+  },
+  {
+    "Disease": "Melanoma",
+    "Symptoms": [
+      {
+        "Symptom": "Unusual moles",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Skin changes",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Itching",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Surgery",
+      "Immunotherapy"
+    ],
+    "Brand Names": [
+      "Keytruda",
+      "Opdivo"
+    ],
+    "Dosages": [
+      "100mg",
+      "40mg"
+    ],
+    "Prices (INR)": [
+      "10000"
+    ]
+  },
+  {
+    "Disease": "Prostate Cancer",
+    "Symptoms": [
+      {
+        "Symptom": "Urinary issues",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Pelvic pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Bone pain",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Hormone therapy",
+      "Chemotherapy"
+    ],
+    "Brand Names": [
+      "Leuprolide",
+      "Docetaxel"
+    ],
+    "Dosages": [
+      "22.5mg",
+      "75mg/m²"
+    ],
+    "Prices (INR)": [
+      "5000"
+    ]
+  },
+  {
+    "Disease": "Breast Cancer",
+    "Symptoms": [
+      {
+        "Symptom": "Lump in breast",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Nipple discharge",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Skin changes",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Surgery",
+      "Chemotherapy"
+    ],
+    "Brand Names": [
+      "Tamoxifen",
+      "Herceptin"
+    ],
+    "Dosages": [
+      "20mg",
+      "440mg"
+    ],
+    "Prices (INR)": [
+      "2000"
+    ]
+  },
+  {
+    "Disease": "Ovarian Cancer",
+    "Symptoms": [
+      {
+        "Symptom": "Abdominal bloating",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Pelvic pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Weight loss",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Surgery",
+      "Chemotherapy"
+    ],
+    "Brand Names": [
+      "Carboplatin",
+      "Paclitaxel"
+    ],
+    "Dosages": [
+      "450mg",
+      "175mg/m²"
+    ],
+    "Prices (INR)": [
+      "3000"
+    ]
+  },
+  {
+    "Disease": "Pancreatic Cancer",
+    "Symptoms": [
+      {
+        "Symptom": "Abdominal pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Jaundice",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Weight loss",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Surgery",
+      "Chemotherapy"
+    ],
+    "Brand Names": [
+      "Gemcitabine",
+      "Erlotinib"
+    ],
+    "Dosages": [
+      "1000mg/m²",
+      "100mg"
+    ],
+    "Prices (INR)": [
+      "4000"
+    ]
+  },
+  {
+    "Disease": "Colorectal Cancer",
+    "Symptoms": [
+      {
+        "Symptom": "Blood in stool",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Abdominal pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Weight loss",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Surgery",
+      "Chemotherapy"
+    ],
+    "Brand Names": [
+      "Capecitabine",
+      "Oxaliplatin"
+    ],
+    "Dosages": [
+      "1500mg/m²",
+      "130mg/m²"
+    ],
+    "Prices (INR)": [
+      "3000"
+    ]
+  },
+  {
+    "Disease": "Constipation",
+    "Symptoms": [
+      {
+        "Symptom": "Weight loss",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Fatigue",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Chills",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Joint pain",
+        "Severity":6,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Azithromycin",
+      "Paracetamol"
+    ],
+    "Brand Names": [
+      "Claritine",
+      "Brufen"
+    ],
+    "Dosages": [
+      "1g",
+      "500mg"
+    ],
+    "Prices (INR)": [
+      "100",
+      "20"
+    ]
+  },
+  {
+    "Disease": "Flu",
+    "Symptoms": [
+      {
+        "Symptom": "Rash",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Chest tightness",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Headache",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Shortness of breath",
+        "Severity":6,
+        "Duration": 1
+      }
+    ],
+    "Medicines": [
+      "Amoxicillin",
+      "Omeprazole"
+    ],
+    "Brand Names": [
+      "Flagyl",
+      "Claritine"
+    ],
+    "Dosages": [
+      "10mg",
+      "1g"
+    ],
+    "Prices (INR)": [
+      "150",
+      "100"
+    ]
+  },
+  {
+    "Disease": "Indigestion",
+    "Symptoms": [
+      {
+        "Symptom": "Sore throat",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Fatigue",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Itching",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Chest tightness",
+        "Severity": 3,
+        "Duration":  0
+      }
+    ],
+    "Medicines": [
+      "Loratadine",
+      "Paracetamol"
+    ],
+    "Brand Names": [
+      "Claritine",
+      "Crocin"
+    ],
+    "Dosages": [
+      "1g",
+      "200mg"
+    ],
+    "Prices (INR)": [
+      "30",
+      "100"
+    ]
+  },
+  {
+    "Disease": "Zika Virus",
+    "Symptoms": [
+      {
+        "Symptom": "Rash",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Chills",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Pain",
+        "Severity": 10,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Fever",
+        "Severity": 10,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Azithromycin",
+      "Amoxicillin"
+    ],
+    "Brand Names": [
+      "Brufen",
+      "Claritine"
+    ],
+    "Dosages": [
+      "200mg",
+      "5mg"
+    ],
+    "Prices (INR)": [
+      "20",
+      "150"
+    ]
+  },
+  {
+    "Disease": "Cholera",
+    "Symptoms": [
+      {
+        "Symptom": "Chills",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Itching",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Pain",
+        "Severity": 10,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Headache",
+        "Severity":6,
+        "Duration": 1
+      }
+    ],
+    "Medicines": [
+      "Metronidazole",
+      "Ciprofloxacin"
+    ],
+    "Brand Names": [
+      "Zinetac",
+      "Crocin"
+    ],
+    "Dosages": [
+      "1g",
+      "5mg"
+    ],
+    "Prices (INR)": [
+      "200",
+      "150"
+    ]
+  },
+  {
+    "Disease": "Mumps",
+    "Symptoms": [
+      {
+        "Symptom": "Vomiting",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Sore throat",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Fever",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Headache",
+        "Severity": 3,
+        "Duration":  0
+      }
+    ],
+    "Medicines": [
+      "Azithromycin",
+      "Omeprazole"
+    ],
+    "Brand Names": [
+      "Alerid",
+      "Omez"
+    ],
+    "Dosages": [
+      "100mg",
+      "250mg"
+    ],
+    "Prices (INR)": [
+      "150",
+      "75"
+    ]
+  },
+  {
+    "Disease": "Acne",
+    "Symptoms": [
+      {
+        "Symptom": "Fever",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Cough",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Shortness of breath",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Sore throat",
+        "Severity": 3,
+        "Duration":  0
+      }
+    ],
+    "Medicines": [
+      "Metronidazole",
+      "Paracetamol"
+    ],
+    "Brand Names": [
+      "Alerid",
+      "Omez"
+    ],
+    "Dosages": [
+      "5mg",
+      "100mg"
+    ],
+    "Prices (INR)": [
+      "75",
+      "30"
+    ]
+  },
+  {
+    "Disease": "Polio",
+    "Symptoms": [
+      {
+        "Symptom": "Chest tightness",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Pain",
+        "Severity": 10,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Joint pain",
+        "Severity": 10,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Fatigue",
+        "Severity": 10,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Omeprazole",
+      "Loratadine"
+    ],
+    "Brand Names": [
+      "Zinetac",
+      "Ciplox"
+    ],
+    "Dosages": [
+      "200mg",
+      "100mg"
+    ],
+    "Prices (INR)": [
+      "50",
+      "30"
+    ]
+  },
+  {
+    "Disease": "Chickenpox",
+    "Symptoms": [
+      {
+        "Symptom": "Sweating",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Cough",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Chills",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Nausea",
+        "Severity": 3,
+        "Duration":  0
+      }
+    ],
+    "Medicines": [
+      "Metronidazole",
+      "Ranitidine"
+    ],
+    "Brand Names": [
+      "Flagyl",
+      "Omez"
+    ],
+    "Dosages": [
+      "100mg",
+      "1g"
+    ],
+    "Prices (INR)": [
+      "200",
+      "20"
+    ]
+  },
+  {
+    "Disease": "Measles",
+    "Symptoms": [
+      {
+        "Symptom": "Fever",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Chest tightness",
+        "Severity": 10,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Dizziness",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Sweating",
+        "Severity":6,
+        "Duration": 1
+      }
+    ],
+    "Medicines": [
+      "Cetirizine",
+      "Ranitidine"
+    ],
+    "Brand Names": [
+      "Omez",
+      "Zinetac"
+    ],
+    "Dosages": [
+      "250mg",
+      "100mg"
+    ],
+    "Prices (INR)": [
+      "20",
+      "200"
+    ]
+  },
+  {
+    "Disease": "Rabies",
+    "Symptoms": [
+      {
+        "Symptom": "Rash",
+        "Severity": 3,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Weight loss",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Joint pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Fever",
+        "Severity":6,
+        "Duration": 1
+      }
+    ],
+    "Medicines": [
+      "Metronidazole",
+      "Paracetamol"
+    ],
+    "Brand Names": [
+      "Crocin",
+      "Zinetac"
+    ],
+    "Dosages": [
+      "200mg",
+      "1g"
+    ],
+    "Prices (INR)": [
+      "20",
+      "100"
+    ]
+  },
+  {
+    "Disease": "Hantavirus",
+    "Symptoms": [
+      {
+        "Symptom": "Dizziness",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Nausea",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Headache",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Vomiting",
+        "Severity":6,
+        "Duration":  0
+      }
+    ],
+    "Medicines": [
+      "Ibuprofen",
+      "Amoxicillin"
+    ],
+    "Brand Names": [
+      "Zinetac",
+      "Ciplox"
+    ],
+    "Dosages": [
+      "10mg",
+      "1g"
+    ],
+    "Prices (INR)": [
+      "200",
+      "30"
+    ]
+  },
+  {
+    "Disease": "Ebola",
+    "Symptoms": [
+      {
+        "Symptom": "Sweating",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Sore throat",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Headache",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Nausea",
+        "Severity": 10,
+        "Duration":  0
+      }
+    ],
+    "Medicines": [
+      "Omeprazole",
+      "Ranitidine"
+    ],
+    "Brand Names": [
+      "Ciplox",
+      "Claritine"
+    ],
+    "Dosages": [
+      "500mg",
+      "100mg"
+    ],
+    "Prices (INR)": [
+      "150",
+      "30"
+    ]
+  },
+  {
+    "Disease": "Marburg Virus",
+    "Symptoms": [
+      {
+        "Symptom": "Joint pain",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Itching",
+        "Severity": 3,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Fever",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Cough",
+        "Severity":6,
+        "Duration":  3
+      }
+    ],
+    "Medicines": [
+      "Cetirizine",
+      "Omeprazole"
+    ],
+    "Brand Names": [
+      "Ciplox",
+      "Omez"
+    ],
+    "Dosages": [
+      "200mg",
+      "250mg"
+    ],
+    "Prices (INR)": [
+      "200",
+      "30"
+    ]
+  },
+  {
+    "Disease": "Scarlet Fever",
+    "Symptoms": [
+      {
+        "Symptom": "Shortness of breath",
+        "Severity": 10,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Fever",
+        "Severity": 10,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Weight loss",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Cough",
+        "Severity":6,
+        "Duration":  3
+      }
+    ],
+    "Medicines": [
+      "Azithromycin",
+      "Ciprofloxacin"
+    ],
+    "Brand Names": [
+      "Claritine",
+      "Azithral"
+    ],
+    "Dosages": [
+      "5mg",
+      "100mg"
+    ],
+    "Prices (INR)": [
+      "20",
+      "75"
+    ]
+  },
+  {
+    "Disease": "Plague",
+    "Symptoms": [
+      {
+        "Symptom": "Chills",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Shortness of breath",
+        "Severity": 10,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Cough",
+        "Severity":6,
+        "Duration":  3
+      }
+    ],
+    "Medicines": [
+      "Paracetamol",
+      "Amoxicillin"
+    ],
+    "Brand Names": [
+      "Flagyl",
+      "Ciplox"
+    ],
+    "Dosages": [
+      "200mg",
+      "5mg"
+    ],
+    "Prices (INR)": [
+      "200",
+      "75"
+    ]
+  },
+  {
+    "Disease": "Leprosy",
+    "Symptoms": [
+      {
+        "Symptom": "Fever",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Fatigue",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Vomiting",
+        "Severity": 10,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Cough",
+        "Severity":6,
+        "Duration":  3
+      }
+    ],
+    "Medicines": [
+      "Cetirizine",
+      "Ranitidine"
+    ],
+    "Brand Names": [
+      "Brufen",
+      "Azithral"
+    ],
+    "Dosages": [
+      "100mg",
+      "10mg"
+    ],
+    "Prices (INR)": [
+      "50",
+      "30"
+    ]
+  },
+  {
+    "Disease": "Diphtheria",
+    "Symptoms": [
+      {
+        "Symptom": "Rash",
+        "Severity": 3,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Dizziness",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Headache",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Fatigue",
+        "Severity":6,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Ciprofloxacin",
+      "Paracetamol"
+    ],
+    "Brand Names": [
+      "Crocin",
+      "Omez"
+    ],
+    "Dosages": [
+      "100mg",
+      "1g"
+    ],
+    "Prices (INR)": [
+      "150",
+      "200"
+    ]
+  },
+  {
+    "Disease": "Allergy",
+    "Symptoms": [
+      {
+        "Symptom": "Rash",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Fever",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Chest tightness",
+        "Severity": 10,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Cough",
+        "Severity":6,
+        "Duration":  3
+      }
+    ],
+    "Medicines": [
+      "Ranitidine",
+      "Azithromycin"
+    ],
+    "Brand Names": [
+      "Azithral",
+      "Claritine"
+    ],
+    "Dosages": [
+      "500mg",
+      "1g"
+    ],
+    "Prices (INR)": [
+      "100",
+      "75"
+    ]
+  },
+  {
+    "Disease": "Hepatitis",
+    "Symptoms": [
+      {
+        "Symptom": "Dizziness",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Shortness of breath",
+        "Severity": 10,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Headache",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Fatigue",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Ibuprofen",
+      "Cetirizine"
+    ],
+    "Brand Names": [
+      "Azithral",
+      "Flagyl"
+    ],
+    "Dosages": [
+      "250mg",
+      "10mg"
+    ],
+    "Prices (INR)": [
+      "50",
+      "200"
+    ]
+  },
+  {
+    "Disease": "Pertussis",
+    "Symptoms": [
+      {
+        "Symptom": "Shortness of breath",
+        "Severity": 10,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Chills",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Fever",
+        "Severity": 10,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Omeprazole",
+      "Amoxicillin"
+    ],
+    "Brand Names": [
+      "Alerid",
+      "Crocin"
+    ],
+    "Dosages": [
+      "1g",
+      "500mg"
+    ],
+    "Prices (INR)": [
+      "75",
+      "100"
+    ]
+  },
+  {
+    "Disease": "Tonsillitis",
+    "Symptoms": [
+      {
+        "Symptom": "Nausea",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Dizziness",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Chest tightness",
+        "Severity": 10,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Sweating",
+        "Severity":6,
+        "Duration": 1
+      }
+    ],
+    "Medicines": [
+      "Metronidazole",
+      "Omeprazole"
+    ],
+    "Brand Names": [
+      "Omez",
+      "Crocin"
+    ],
+    "Dosages": [
+      "500mg",
+      "250mg"
+    ],
+    "Prices (INR)": [
+      "20",
+      "30"
+    ]
+  },
+  {
+    "Disease": "Ringworm",
+    "Symptoms": [
+      {
+        "Symptom": "Joint pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Sweating",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Vomiting",
+        "Severity": 10,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Headache",
+        "Severity":6,
+        "Duration": 1
+      }
+    ],
+    "Medicines": [
+      "Loratadine",
+      "Cetirizine"
+    ],
+    "Brand Names": [
+      "Omez",
+      "Azithral"
+    ],
+    "Dosages": [
+      "100mg",
+      "250mg"
+    ],
+    "Prices (INR)": [
+      "100",
+      "50"
+    ]
+  },
+  {
+    "Disease": "Ear Infection",
+    "Symptoms": [
+      {
+        "Symptom": "Fever",
+        "Severity": 10,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Nausea",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Dizziness",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Sore throat",
+        "Severity":6,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Ranitidine",
+      "Omeprazole"
+    ],
+    "Brand Names": [
+      "Claritine",
+      "Brufen"
+    ],
+    "Dosages": [
+      "250mg",
+      "100mg"
+    ],
+    "Prices (INR)": [
+      "100",
+      "150"
+    ]
+  },
+  {
+    "Disease": "Scabies",
+    "Symptoms": [
+      {
+        "Symptom": "Shortness of breath",
+        "Severity": 10,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Dizziness",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Sore throat",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Vomiting",
+        "Severity":6,
+        "Duration":  0
+      }
+    ],
+    "Medicines": [
+      "Ciprofloxacin",
+      "Paracetamol"
+    ],
+    "Brand Names": [
+      "Zinetac",
+      "Brufen"
+    ],
+    "Dosages": [
+      "100mg",
+      "200mg"
+    ],
+    "Prices (INR)": [
+      "50",
+      "75"
+    ]
+  },
+  {
+    "Disease": "Herpes",
+    "Symptoms": [
+      {
+        "Symptom": "Nausea",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Rash",
+        "Severity": 3,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Dizziness",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Shortness of breath",
+        "Severity": 10,
+        "Duration": 1
+      }
+    ],
+    "Medicines": [
+      "Ibuprofen",
+      "Ciprofloxacin"
+    ],
+    "Brand Names": [
+      "Brufen",
+      "Flagyl"
+    ],
+    "Dosages": [
+      "200mg",
+      "1g"
+    ],
+    "Prices (INR)": [
+      "75",
+      "100"
+    ]
+  },
+  {
+    "Disease": "Yellow Nail Syndrome",
+    "Symptoms": [
+      {
+        "Symptom": "Weight loss",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Sore throat",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Dizziness",
+        "Severity": 3,
+        "Duration":  0
+      }
+    ],
+    "Medicines": [
+      "Ranitidine",
+      "Loratadine"
+    ],
+    "Brand Names": [
+      "Alerid",
+      "Crocin"
+    ],
+    "Dosages": [
+      "200mg",
+      "100mg"
+    ],
+    "Prices (INR)": [
+      "150",
+      "50"
+    ]
+  },
+  {
+    "Disease": "Kawasaki Disease",
+    "Symptoms": [
+      {
+        "Symptom": "Sore throat",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Headache",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Weight loss",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Dizziness",
+        "Severity": 3,
+        "Duration":  0
+      }
+    ],
+    "Medicines": [
+      "Azithromycin",
+      "Ranitidine"
+    ],
+    "Brand Names": [
+      "Claritine",
+      "Omez"
+    ],
+    "Dosages": [
+      "250mg",
+      "500mg"
+    ],
+    "Prices (INR)": [
+      "100",
+      "75"
+    ]
+  },
+  {
+    "Disease": "Meningitis",
+    "Symptoms": [
+      {
+        "Symptom": "Pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Dizziness",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Sweating",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Sore throat",
+        "Severity":6,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Metronidazole",
+      "Paracetamol"
+    ],
+    "Brand Names": [
+      "Claritine",
+      "Brufen"
+    ],
+    "Dosages": [
+      "250mg",
+      "10mg"
+    ],
+    "Prices (INR)": [
+      "75",
+      "200"
+    ]
+  },
+  {
+    "Disease": "Encephalitis",
+    "Symptoms": [
+      {
+        "Symptom": "Rash",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Weight loss",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Nausea",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Headache",
+        "Severity":6,
+        "Duration": 1
+      }
+    ],
+    "Medicines": [
+      "Metronidazole",
+      "Azithromycin"
+    ],
+    "Brand Names": [
+      "Zinetac",
+      "Claritine"
+    ],
+    "Dosages": [
+      "250mg",
+      "200mg"
+    ],
+    "Prices (INR)": [
+      "30",
+      "20"
+    ]
+  },
+  {
+    "Disease": "HIV",
+    "Symptoms": [
+      {
+        "Symptom": "Rash",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Cough",
+        "Severity":6,
+        "Duration":  3
+      },
+      {
+        "Symptom": "Chest tightness",
+        "Severity": 10,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Fever",
+        "Severity": 10,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Amoxicillin",
+      "Ciprofloxacin"
+    ],
+    "Brand Names": [
+      "Crocin",
+      "Omez"
+    ],
+    "Dosages": [
+      "200mg",
+      "500mg"
+    ],
+    "Prices (INR)": [
+      "20",
+      "100"
+    ]
+  },
+  {
+    "Disease": "Smallpox",
+    "Symptoms": [
+      {
+        "Symptom": "Weight loss",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Rash",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Sweating",
+        "Severity":6,
+        "Duration": 1
+      }
+    ],
+    "Medicines": [
+      "Loratadine",
+      "Ciprofloxacin"
+    ],
+    "Brand Names": [
+      "Crocin",
+      "Flagyl"
+    ],
+    "Dosages": [
+      "100mg",
+      "5mg"
+    ],
+    "Prices (INR)": [
+      "75",
+      "50"
+    ]
+  },
+  {
+    "Disease": "Norovirus",
+    "Symptoms": [
+      {
+        "Symptom": "Dizziness",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Nausea",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Chest tightness",
+        "Severity": 10,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Joint pain",
+        "Severity": 10,
+        "Duration": 5
+      }
+    ],
+    "Medicines": [
+      "Amoxicillin",
+      "Ranitidine"
+    ],
+    "Brand Names": [
+      "Brufen",
+      "Omez"
+    ],
+    "Dosages": [
+      "200mg",
+      "1g"
+    ],
+    "Prices (INR)": [
+      "150",
+      "100"
+    ]
+  },
+  {
+    "Disease": "Rotavirus",
+    "Symptoms": [
+      {
+        "Symptom": "Chills",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Fatigue",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Rash",
+        "Severity": 3,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Shortness of breath",
+        "Severity": 10,
+        "Duration": 1
+      }
+    ],
+    "Medicines": [
+      "Ciprofloxacin",
+      "Metronidazole"
+    ],
+    "Brand Names": [
+      "Augmentin",
+      "Zinetac"
+    ],
+    "Dosages": [
+      "500mg",
+      "10mg"
+    ],
+    "Prices (INR)": [
+      "75",
+      "50"
+    ]
+  },
+  {
+    "Disease": "Hand Foot Mouth Disease",
+    "Symptoms": [
+      {
+        "Symptom": "Joint pain",
+        "Severity":6,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Weight loss",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Fever",
+        "Severity": 10,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Shortness of breath",
+        "Severity": 10,
+        "Duration": 1
+      }
+    ],
+    "Medicines": [
+      "Metronidazole",
+      "Omeprazole"
+    ],
+    "Brand Names": [
+      "Azithral",
+      "Zinetac"
+    ],
+    "Dosages": [
+      "200mg",
+      "10mg"
+    ],
+    "Prices (INR)": [
+      "100",
+      "200"
+    ]
+  },
+  {
+    "Disease": "Swine Flu",
+    "Symptoms": [
+      {
+        "Symptom": "Shortness of breath",
+        "Severity": 10,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Headache",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Rash",
+        "Severity": 3,
+        "Duration": 4
+      },
+      {
+        "Symptom": "Chest tightness",
+        "Severity": 10,
+        "Duration": 1
+      }
+    ],
+    "Medicines": [
+      "Omeprazole",
+      "Azithromycin"
+    ],
+    "Brand Names": [
+      "Alerid",
+      "Flagyl"
+    ],
+    "Dosages": [
+      "1g",
+      "200mg"
+    ],
+    "Prices (INR)": [
+      "150",
+      "100"
+    ]
+  },
+  {
+    "Disease": "Back Pain",
+    "Symptoms": [
+      {
+        "Symptom": "Joint pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Chills",
+        "Severity":6,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Sweating",
+        "Severity":6,
+        "Duration": 1
+      },
+      {
+        "Symptom": "Itching",
+        "Severity": 3,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Loratadine",
+      "Cetirizine"
+    ],
+    "Brand Names": [
+      "Flagyl",
+      "Augmentin"
+    ],
+    "Dosages": [
+      "500mg",
+      "10mg"
+    ],
+    "Prices (INR)": [
+      "20",
+      "200"
+    ]
+  },
+  {
+    "Disease": "Avian Influenza",
+    "Symptoms": [
+      {
+        "Symptom": "Dizziness",
+        "Severity": 3,
+        "Duration":  0
+      },
+      {
+        "Symptom": "Weight loss",
+        "Severity":6,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Pain",
+        "Severity": 10,
+        "Duration": 5
+      },
+      {
+        "Symptom": "Rash",
+        "Severity":6,
+        "Duration": 4
+      }
+    ],
+    "Medicines": [
+      "Ibuprofen",
+      "Ciprofloxacin"
+    ],
+    "Brand Names": [
+      "Azithral",
+      "Flagyl"
+    ],
+    "Dosages": [
+      "500mg",
+      "10mg"
+    ],
+    "Prices (INR)": [
+      "150",
+      "100"
+    ]
+  }
+]
