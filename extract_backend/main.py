@@ -6,11 +6,27 @@ import google.generativeai as genai
 import json
 import re
 
+
+#adding these lines from here to 
+import os
+from dotenv import load_dotenv
+
+# Load .env variables if running locally
+load_dotenv()
+
+API_KEY = os.getenv("GEMINI_API_KEY")  # Read from environment
+if not API_KEY:
+    raise ValueError("❌ Missing GEMINI_API_KEY environment variable")
+
+genai.configure(api_key=API_KEY)
+
+#here to here
 # --------------------
 # CONFIG
 # --------------------
-API_KEY = "AIzaSyBJrN4TGiup0fXvQTacrIEJmoyh3ibmV-4"  # Replace with your actual Gemini API key
-genai.configure(api_key=API_KEY)
+
+# API_KEY = "AIzaSyBJrN4TGiup0fXvQTacrIEJmoyh3ibmV-4"  # Replace with your actual Gemini API key
+# genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel("gemini-1.5-flash")  # or gemini-1.5-pro
 
 # --------------------
